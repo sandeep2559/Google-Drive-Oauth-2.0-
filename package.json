@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "googleapis": "^114.0.0",
+    "path": "^0.12.7"
+  },
+  "name": "drive-api",
+  "version": "1.0.0",
+  "main": "google-drive-api.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sandeep kumar",
+  "license": "ISC",
+  "description": ""
+}
